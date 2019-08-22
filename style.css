@@ -1,0 +1,56 @@
+             h4{
+                font-style: italic;
+                color:black;
+            }
+            .navbar{
+                background-color:white ;
+            }
+           
+            .panel-heading{
+                background-color: gold;
+            }
+            .he{
+                background-color: gray;
+                color: whitesmoke;
+            }
+            .for{
+                
+                margin-top: 10px;
+                margin-right: 10px;
+            }
+            .jo{
+                margin-left: 25px; 
+            }
+           
+            .fy{
+                margin-top: 25px; 
+                
+            }
+           panel-body{
+                background-color: mistyrose;
+            }
+             .about{
+                margin-top: 30px;
+            }
+            .hii{
+                margin-top: 60px;
+            }
+            .fyh{
+                margin: 20px;
+            }
+            .cp{
+                margin-top: 30px;
+                padding-top: 30px;
+            }
+            .ha{
+                text-decoration: none;
+                color: whitesmoke;
+            }
+ 
+    
+
+/* 
+    Created on : Aug 13, 2019, 6:14:52 AM
+    Author     : asus
+*/
+
