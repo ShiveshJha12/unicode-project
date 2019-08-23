@@ -95,7 +95,7 @@ include 'header.php';
             
             <div class="container-fluid fy">
                 <div class="row">
-                    <div class="col-xs-4">
+                    <div class="col-lg-4 col-xs-12">
             <div class="panel panel-default">
                     <div class="panel-heading panel-heading-custom">
        <h3>Mobile 1</h3>
@@ -114,7 +114,7 @@ include 'header.php';
             
              
                 
-                    <div class="col-xs-4 ">
+                    <div class="col-lg-4 col-xs-12">
                         <div class="panel panel-default ">
                             <div class="panel-heading panel-heading-custom ">
                                 <h3>Mobile 2</h3>
@@ -133,7 +133,7 @@ include 'header.php';
             
                  
                 
-                    <div class="col-xs-4">
+                    <div class="col-lg-4 col-xs-12">
                         <div class="panel panel-default ">
                             <div class="panel-heading panel-heading-custom ">
                                 <h3>Mobile 3</h3>
@@ -149,7 +149,7 @@ include 'header.php';
                     </div>
                     </div>
                 <div class="row">
-                     <div class="col-xs-4">
+                     <div class="col-lg-4 col-xs-12">
             <div class="panel panel-default">
                     <div class="panel-heading panel-heading-custom">
                         <h3>Mobile 4</h3>
@@ -162,7 +162,7 @@ include 'header.php';
    </div>
 </div>
                         </div>
-                     <div class="col-xs-4">
+                     <div class="col-lg-4 col-xs-12">
             <div class="panel panel-default">
                     <div class="panel-heading panel-heading-custom">
        <h3>Mobile 5</h3>
@@ -175,7 +175,7 @@ include 'header.php';
    </div>
 </div>
                         </div>
-                     <div class="col-xs-4">
+                     <div class="col-lg-4 col-xs-12">
             <div class="panel panel-default">
                     <div class="panel-heading panel-heading-custom">
        <h3>Mobile 6</h3>
